@@ -5,7 +5,7 @@
 Welcome to my Car Counter project! This repository contains the code for a computer vision project that tracks and counts cars (and other vehicles) using YOLOv8, OpenCV, and cvzone. The project showcases how to use object detection models in real-world scenarios like traffic monitoring.
 
 🎥 Demo Video
-Curious to see it in action? Check out the demo video on LinkedIn where I explain how the project works: https://www.linkedin.com/feed/update/urn:li:activity:7230826639268438016/
+Curious to see it in action? Check out the demo video on LinkedIn where I explain how the project works: https://www.linkedin.com/feed/update/urn:li:activity:7231160887686918144/
 
 
 🚀 Project Overview
